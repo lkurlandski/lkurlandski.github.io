@@ -15,10 +15,10 @@ I'm a Ph.D. candidate in Computing and Information Science at the Rochester Inst
 
 ## Research interests
 
-- **Language models for code and binaries:** pretraining, tokenization, and long-context modeling of executables
-- **Adversarial robustness:** attacks on and defenses for ML-based security systems
-- **LLM security:** the robustness of large language models and their use in defensive security
-- **Generalization:** detectors that transfer across platforms and data distributions
+- **Malware Detection and Mitigation:** Malware analysis and threat mitigation.
+- **Adversarial Learning and Robustness:** Robust and secure machine learning.
+- **Large Language Models and Agentic AI:** Intelligent and autonomous AI systems.
+- **Binary and Prrogram Analysis:** Software analysis and vulnerability discovery.
 
 ## News
 
