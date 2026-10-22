@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Computing and Information Science at the Rochester Institute of Technology, advised by Matthew Wright and Yin Pan, and an NSF Graduate Research Fellow. I build language models for executable code and study how machine-learning-based security systems fail under adversarial pressure.
-
-My [NDSS 2026 paper](https://www.ndss-symposium.org/ndss-paper/beyond-raw-bytes-towards-large-malware-language-models/) takes the first steps toward large malware language models: pretraining on executables with language-modeling objectives improves downstream malware classification by 1.1% on average and by up to 28.6%. I've also shown how swapping API calls produces adversarial malware that evades detectors, and my current work studies what raw-binary classifiers need to scale and how detectors can generalize across platforms.
-
-Going forward, I want to work on the robustness of large language models and on applying them to defensive security.
+I'm a Ph.D. candidate in Computing and Information Science at the Rochester Institute of Technology, advised by Matthew Wright and Yin Pan, and an NSF Graduate Research Fellow. I've spent most of the past four years researching how machine learning can applied in the malware domain. Moving forward, I am broadly interested in the intersection of security and artificial intelligence.
 
 <div class="notice--info job-market" markdown="1">
 **I'm on the job market** for research scientist positions starting mid-2027. Reach me at [luke.kurlandski@gmail.com](mailto:luke.kurlandski@gmail.com) or see my [CV](https://lkurlandski.github.io/CurriculumVitae/cv.pdf).
