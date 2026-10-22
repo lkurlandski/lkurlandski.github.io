@@ -1,0 +1,126 @@
+/* ==========================================================================
+   Site-specific components: publication entries, news list, job-market callout
+   ========================================================================== */
+
+/* Publication entries (see _includes/publication.html) */
+
+.pub {
+  margin: 0 0 1.4em;
+  line-height: 1.5;
+}
+
+.pub__title {
+  font-weight: bold;
+  color: var(--global-text-color);
+}
+
+.pub__badge {
+  display: inline-block;
+  margin-right: 0.4em;
+  padding: 0.05em 0.5em;
+  border-radius: 999px;
+  background-color: rgba($primary-color, 0.12);
+  color: var(--global-base-color);
+  font-size: 0.75em;
+  font-weight: bold;
+  vertical-align: 0.1em;
+  white-space: nowrap;
+}
+
+.pub__authors,
+.pub__venue {
+  font-size: 0.9em;
+}
+
+.pub__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.4em;
+  margin-top: 0.35em;
+}
+
+/* Two classes deep to outrank the theme's underlined `.page__content a` */
+.pub .pub__link {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border: 1px solid var(--global-dark-border-color);
+  border-radius: $border-radius;
+  font-size: 0.75em;
+  text-decoration: none;
+  color: var(--global-text-color);
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--global-base-color);
+    color: var(--global-base-color);
+  }
+}
+
+.pub__bibtex {
+  summary {
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  &[open] {
+    flex-basis: 100%;
+  }
+
+  pre {
+    margin: 0.5em 0 0;
+    font-size: 0.7em;
+  }
+}
+
+.pub-section {
+  margin-top: 1.5em;
+}
+
+.pub-section__note {
+  margin-top: -0.5em;
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+/* News list on the home page */
+
+.news {
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 0.5em;
+  }
+}
+
+.news__date {
+  flex: 0 0 5.5em;
+  font-weight: bold;
+  color: var(--global-base-color);
+  white-space: nowrap;
+}
+
+/* Job-market callout; overrides the notice colors so it reads well in dark mode too */
+
+.job-market {
+  background-color: rgba($primary-color, 0.1) !important;
+  border-left: 4px solid var(--global-base-color);
+  color: var(--global-text-color) !important;
+  font-size: 1em !important;
+
+  p {
+    margin: 0;
+  }
+}
+
+/* Let long sidebar entries (e.g., the employer) wrap instead of being clipped */
+
+.author__urls li {
+  white-space: normal;
+}

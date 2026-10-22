@@ -1,0 +1,30 @@
+{% comment %}
+  Renders one publication entry. Usage: {% include publication.html pub=post %}
+  Front matter fields: title, authors, venue, venue_short, date, paperurl, slidesurl,
+  videourl, codeurl, pageurl, bibtex.
+{% endcomment %}
+{% assign pub = include.pub %}
+{% assign me = site.author.name | prepend: "<strong>" | append: "</strong>" %}
+<div class="pub">
+  <div class="pub__title">
+    {% if pub.venue_short %}<span class="pub__badge">{{ pub.venue_short }}</span>{% endif %}
+    {% if pub.paperurl %}<a href="{{ pub.paperurl }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
+  </div>
+  <div class="pub__authors">{{ pub.authors | replace: site.author.name, me }}</div>
+  <div class="pub__venue"><em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}</div>
+  {% if pub.paperurl or pub.slidesurl or pub.videourl or pub.codeurl or pub.pageurl or pub.bibtex %}
+  <div class="pub__links">
+    {% if pub.paperurl %}<a class="pub__link" href="{{ pub.paperurl }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>{% endif %}
+    {% if pub.slidesurl %}<a class="pub__link" href="{{ pub.slidesurl }}"><i class="fas fa-person-chalkboard" aria-hidden="true"></i> Slides</a>{% endif %}
+    {% if pub.videourl %}<a class="pub__link" href="{{ pub.videourl }}"><i class="fab fa-youtube" aria-hidden="true"></i> Talk</a>{% endif %}
+    {% if pub.codeurl %}<a class="pub__link" href="{{ pub.codeurl }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{% endif %}
+    {% if pub.pageurl %}<a class="pub__link" href="{{ pub.pageurl }}"><i class="fas fa-link" aria-hidden="true"></i> Venue page</a>{% endif %}
+    {% if pub.bibtex %}
+    <details class="pub__bibtex">
+      <summary class="pub__link"><i class="fas fa-quote-right" aria-hidden="true"></i> BibTeX</summary>
+      <pre><code>{{ pub.bibtex | strip | escape }}</code></pre>
+    </details>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>

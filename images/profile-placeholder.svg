@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Placeholder image of a tree">
+  <!-- Placeholder avatar: replace with a headshot (set author.avatar in _config.yml) -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe8f3"/>
+      <stop offset="1" stop-color="#eef7f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#sky)"/>
+  <ellipse cx="200" cy="372" rx="210" ry="58" fill="#9cc58a"/>
+  <path d="M188 360 L192 250 Q170 228 150 226 Q176 222 194 238 L196 196 L206 196 L208 236 Q226 214 252 214 Q228 224 210 250 L214 360 Z" fill="#6b4a2f"/>
+  <circle cx="200" cy="150" r="78" fill="#3f7d4e"/>
+  <circle cx="138" cy="190" r="56" fill="#4b8f5a"/>
+  <circle cx="264" cy="186" r="60" fill="#468a55"/>
+  <circle cx="160" cy="118" r="52" fill="#559b63"/>
+  <circle cx="244" cy="116" r="50" fill="#4f955d"/>
+  <circle cx="204" cy="208" r="48" fill="#3b744a"/>
+  <circle cx="182" cy="96" r="22" fill="#6aad74" opacity="0.6"/>
+  <circle cx="122" cy="174" r="16" fill="#6aad74" opacity="0.5"/>
+</svg>
