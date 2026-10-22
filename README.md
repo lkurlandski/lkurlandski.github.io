@@ -12,7 +12,7 @@ Personal research website of Luke Kurlandski, built on the [Academic Pages](http
 | Publications (one file each) | `_publications/*.md` |
 | Publication categories and order | `_config.yml` (`publication_category:`) |
 | Top navigation | `_data/navigation.yml` |
-| CV | `files/cv.pdf` |
+| CV | `cv.pdf` in the [CurriculumVitae](https://github.com/lkurlandski/CurriculumVitae) repo, served by its own GitHub Pages site |
 | Site-specific styles | `_sass/layout/_custom.scss` |
 
 To feature a paper on the home page, add `selected: true` to its front matter. Optional link fields: `paperurl`, `slidesurl`, `videourl`, `codeurl`, `pageurl`, `bibtex`.

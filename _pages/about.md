@@ -14,7 +14,7 @@ My [NDSS 2026 paper](https://www.ndss-symposium.org/ndss-paper/beyond-raw-bytes-
 Going forward, I want to work on the robustness of large language models and on applying them to defensive security.
 
 <div class="notice--info job-market" markdown="1">
-**I'm on the job market** for research scientist positions starting mid-2027. Reach me at [luke.kurlandski@gmail.com](mailto:luke.kurlandski@gmail.com) or see my [CV](/files/cv.pdf).
+**I'm on the job market** for research scientist positions starting mid-2027. Reach me at [luke.kurlandski@gmail.com](mailto:luke.kurlandski@gmail.com) or see my [CV](https://lkurlandski.github.io/CurriculumVitae/cv.pdf).
 </div>
 
 ## Research interests
