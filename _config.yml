@@ -87,14 +87,13 @@ publication_category:
   underreview:
     title: 'Under Review'
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Proceedings'
+  journals:
+    title: 'Journal Articles'
   workshops:
     title: 'Workshop Papers'
   posters:
-    title: 'Posters'
-  earlier:
-    title: 'Earlier Work in Optics'
-    note: 'Undergraduate research in the TCNJ Photonics Group, where I wrote the software that controlled the fabrication hardware.'
+    title: 'Poster Sessions'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
