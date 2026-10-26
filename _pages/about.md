@@ -22,12 +22,13 @@ I'm a Ph.D. candidate in Computing and Information Science at the Rochester Inst
 
 ## News
 
-- **Feb 2026** Presented [*Beyond Raw Bytes: Towards Large Malware Language Models*](https://www.ndss-symposium.org/ndss-paper/beyond-raw-bytes-towards-large-malware-language-models/) at NDSS 2026 in San Diego ([talk video](https://youtu.be/XjZozJdvbZo)).
-- **2026** *Towards Moving Target Defense for IoT Malware Detection* accepted at SERP4IoT 2026.
-- **Jun 2025** *Do Fear the REAPIR: Adversarial Malware from API Replacement* appeared at WoRMA 2025, co-located with IEEE EuroS&P.
-- **Apr 2025** Received RIT's Provost's Outstanding Graduate Student Teaching Award.
-- **Aug 2024** Presented a poster on pretrained executable language models at USENIX Security 2024.
-- **Apr 2024** Awarded the NSF Graduate Research Fellowship (also offered the NDSEG Fellowship, which I declined).
+- **Jul 2026** *Towards Moving Target Defense for IoT Malware Detection* appeared at SERP4IoT 2026.
+- **Feb 2026** *Beyond Raw Bytes: Towards Large Malware Language Models* appeared at NDSS 2026.
+- **Jun 2025** *Do Fear the REAPIR: Adversarial Malware from API Replacement* appeared at WoRMA 2025.
+- **Apr 2025** Awarded [Provost's Outstanding Graduate Student Teaching Award](https://www.rit.edu/graduateschool/rit-provosts-outstanding-graduate-student-teaching-award).
+- **Apr 2024** Awarded the [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/initiatives/grfp).
+- **Dec 2023** Awarded the [AI Seed Fund](https://www.rit.edu/srs/ai-seed-fund).
+- **Jan 2022** *Impact of Stop Sets on Stopping Active Learning for Text Classification* appeared at ICSC 2022.
 {: .news}
 
 ## Selected publications
