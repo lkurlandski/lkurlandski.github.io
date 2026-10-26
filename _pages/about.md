@@ -10,7 +10,7 @@ redirect_from:
 I'm a Ph.D. candidate in Computing and Information Science at the Rochester Institute of Technology, advised by Matthew Wright and Yin Pan, and an NSF Graduate Research Fellow. I've spent most of the past four years researching how machine learning can applied in the malware domain. Moving forward, I am broadly interested in the intersection of security and artificial intelligence.
 
 <div class="notice--info job-market" markdown="1">
-**I'm on the job market** for research scientist positions starting mid-2027. Reach me at [luke.kurlandski@gmail.com](mailto:luke.kurlandski@gmail.com) or see my [CV](https://lkurlandski.github.io/CurriculumVitae/cv.pdf).
+I'm on the job market for research scientist positions starting mid-2027.
 </div>
 
 ## Research interests
