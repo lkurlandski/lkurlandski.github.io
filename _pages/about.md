@@ -40,9 +40,3 @@ I'm on the job market for research scientist positions starting mid-2027.
 {% endfor %}
 
 [All publications &rarr;](/publications/)
-
-## Teaching and mentoring
-
-- **Instructor**, Advanced Malware Forensics (graduate seminar, RIT, Spring 2024). Sole instructor; overhauled the course materials.
-- **Mentor** to 19 B.S. and M.S. students across 7 independent studies and 3 capstone projects (2023–present).
-- **Provost's Outstanding Graduate Student Teaching Award**, RIT (2025).
