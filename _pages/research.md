@@ -4,14 +4,14 @@ title: "Research"
 author_profile: true
 ---
 
-My research sits at the intersection of machine learning and security.
+My research sits at the intersection of machine learning and security. My dissertation emphasizes AI-based malware detection, analysis, and mitigation but I hope to expand out into other areas, particularly agentic security. I did some other things before I got into security, so here is a high-level overview of my trajectory.
 
-## Earlier work
+## Machine Learning Security @RIT (2022 - 2027)
 
-As an undergraduate at TCNJ, I studied **label-efficient NLP**, showing how the choice of stop set affects methods for stopping active learning ([ICSC 2022](https://arxiv.org/abs/2201.05460)). I built a recommender system for finding under-appreciated research (NSF REU), detected deepfake audio as a research intern at CACI, and wrote the control software for optical microstructure fabrication in a photonics lab.
+## Learning Curve @TCNJ (2021 - 2022)
 
-## Open-source software
+## Digital Authenticity @CACI (2021)
 
-- [**RawByteClf**](https://github.com/lkurlandski/RawByteClf): classifying malware from raw bytes with Transformers.
-- [**EXTRACTOR**](https://github.com/lkurlandski/EXTRACTOR): extract, disassemble, and decompile code from PE files.
-- [**MDALTH**](https://github.com/lkurlandski/MDALTH): modular deep active learning on PyTorch and Hugging Face.
+## Collective Intelligence @TCNJ (2020 - 2021)
+
+## Photonics @TCNJ (2018 - 2020)
