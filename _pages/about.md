@@ -23,13 +23,13 @@ I'm on the job market for research scientist positions starting mid-2027.
 ## News
 
 <ul class="news">
-  <li><span class="news__date">Jul 2026</span> <span><em>Towards Moving Target Defense for IoT Malware Detection</em> appeared at SERP4IoT 2026.</span></li>
-  <li><span class="news__date">Feb 2026</span> <span><em>Beyond Raw Bytes: Towards Large Malware Language Models</em> appeared at NDSS 2026.</span></li>
-  <li><span class="news__date">Jun 2025</span> <span><em>Do Fear the REAPIR: Adversarial Malware from API Replacement</em> appeared at WoRMA 2025.</span></li>
+  <li><span class="news__date">Jul 2026</span> <span><a href="https://dl.acm.org/doi/pdf/10.1145/3786159.3788477"><em>Towards Moving Target Defense for IoT Malware Detection</em></a> appeared at SERP4IoT 2026.</span></li>
+  <li><span class="news__date">Feb 2026</span> <span><a href="https://ndss-symposium.org/wp-content/uploads/2026-s103-paper.pdf"><em>Beyond Raw Bytes: Towards Large Malware Language Models</em></a> appeared at NDSS 2026.</span></li>
+  <li><span class="news__date">Jun 2025</span> <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11129592"><em>Do Fear the REAPIR: Adversarial Malware from API Replacement</em></a> appeared at WoRMA 2025.</span></li>
   <li><span class="news__date">Apr 2025</span> <span>Awarded <a href="https://www.rit.edu/graduateschool/rit-provosts-outstanding-graduate-student-teaching-award">Provost's Outstanding Graduate Student Teaching Award</a>.</span></li>
   <li><span class="news__date">Apr 2024</span> <span>Awarded the <a href="https://www.nsf.gov/funding/initiatives/grfp">NSF Graduate Research Fellowship</a>.</span></li>
   <li><span class="news__date">Dec 2023</span> <span>Awarded the <a href="https://www.rit.edu/srs/ai-seed-fund">AI Seed Fund</a>.</span></li>
-  <li><span class="news__date">Jan 2022</span> <span><em>Impact of Stop Sets on Stopping Active Learning for Text Classification</em> appeared at ICSC 2022.</span></li>
+  <li><span class="news__date">Jan 2022</span> <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9736303"><em>Impact of Stop Sets on Stopping Active Learning for Text Classification</em></a> appeared at ICSC 2022.</span></li>
 </ul>
 
 ## Selected publications
