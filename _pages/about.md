@@ -22,14 +22,13 @@ I'm a Ph.D. candidate in Computing and Information Science at the Rochester Inst
 
 ## News
 
-<ul class="news">
-  <li><span class="news__date">Feb 2026</span> <span>Presented <a href="https://www.ndss-symposium.org/ndss-paper/beyond-raw-bytes-towards-large-malware-language-models/"><em>Beyond Raw Bytes: Towards Large Malware Language Models</em></a> at NDSS 2026 in San Diego (<a href="https://youtu.be/XjZozJdvbZo">talk video</a>).</span></li>
-  <li><span class="news__date">2026</span> <span><em>Towards Moving Target Defense for IoT Malware Detection</em> accepted at SERP4IoT 2026.</span></li>
-  <li><span class="news__date">Jun 2025</span> <span><em>Do Fear the REAPIR: Adversarial Malware from API Replacement</em> appeared at WoRMA 2025, co-located with IEEE EuroS&amp;P.</span></li>
-  <li><span class="news__date">Apr 2025</span> <span>Received RIT's Provost's Outstanding Graduate Student Teaching Award.</span></li>
-  <li><span class="news__date">Aug 2024</span> <span>Presented a poster on pretrained executable language models at USENIX Security 2024.</span></li>
-  <li><span class="news__date">Apr 2024</span> <span>Awarded the NSF Graduate Research Fellowship (also offered the NDSEG Fellowship, which I declined).</span></li>
-</ul>
+- **Feb 2026** Presented [*Beyond Raw Bytes: Towards Large Malware Language Models*](https://www.ndss-symposium.org/ndss-paper/beyond-raw-bytes-towards-large-malware-language-models/) at NDSS 2026 in San Diego ([talk video](https://youtu.be/XjZozJdvbZo)).
+- **2026** *Towards Moving Target Defense for IoT Malware Detection* accepted at SERP4IoT 2026.
+- **Jun 2025** *Do Fear the REAPIR: Adversarial Malware from API Replacement* appeared at WoRMA 2025, co-located with IEEE EuroS&P.
+- **Apr 2025** Received RIT's Provost's Outstanding Graduate Student Teaching Award.
+- **Aug 2024** Presented a poster on pretrained executable language models at USENIX Security 2024.
+- **Apr 2024** Awarded the NSF Graduate Research Fellowship (also offered the NDSEG Fellowship, which I declined).
+{: .news}
 
 ## Selected publications
 

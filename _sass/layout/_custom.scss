@@ -86,24 +86,27 @@
   font-style: italic;
 }
 
-/* News list on the home page */
+/* News list on the home page: a Markdown list tagged {: .news}, each item
+   starting with a **bold date**; the hanging indent aligns wrapped lines */
 
 .news {
   padding-left: 0;
   list-style: none;
 
   li {
-    display: flex;
-    gap: 1em;
     margin-bottom: 0.5em;
+    padding-left: 6.5em;
+    text-indent: -6.5em;
   }
-}
 
-.news__date {
-  flex: 0 0 5.5em;
-  font-weight: bold;
-  color: var(--global-base-color);
-  white-space: nowrap;
+  li > strong:first-child {
+    display: inline-block;
+    width: 5.5em;
+    margin-right: 1em;
+    text-indent: 0;
+    color: var(--global-base-color);
+    white-space: nowrap;
+  }
 }
 
 /* Job-market callout; overrides the notice colors so it reads well in dark mode too */
