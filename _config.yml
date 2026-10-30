@@ -23,7 +23,7 @@ repository               : "lkurlandski/lkurlandski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-placeholder.svg" # TODO: replace with a headshot
+  avatar           : "profile.jpg"
   name             : "Luke Kurlandski"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate · ML for Security"
