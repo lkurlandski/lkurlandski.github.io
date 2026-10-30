@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=4iWTGSwAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=eM2zymEAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -155,6 +155,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=eM2zymEAAAAJ"
+    - "https://github.com/lkurlandski"
+    - "https://www.linkedin.com/in/luke-kurlandski"
 
 
 # Analytics
