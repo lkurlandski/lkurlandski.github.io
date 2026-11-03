@@ -10,6 +10,10 @@ redirect_from:
 I'm a Ph.D. candidate in Computing and Information Science at the Rochester Institute of Technology, advised by Dr. Matthew Wright and Dr. Yin Pan, and an NSF Graduate Research Fellow. I've spent most of the past four years researching how machine learning can be applied in the malware domain. Moving forward, I am broadly interested in the intersection of security and artificial intelligence.
 
 <div class="notice--info job-market" markdown="1">
+I'm on the job market for research intern positions starting late-2026.
+</div>
+
+<div class="notice--info job-market" markdown="1">
 I'm on the job market for research scientist positions starting mid-2027.
 </div>
 
